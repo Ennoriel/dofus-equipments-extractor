@@ -1,0 +1,1 @@
+Python scrapper to extract a csv file of all dofus equipments.
